@@ -13,6 +13,8 @@
 ### 🎓 Sobre mim
 Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no início da minha jornada na tecnologia. Apaixonado por aprender e criar soluções através da programação.
 
+<div align="center">
+
 ### 🚀 Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,6 +23,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no início d
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
 
 ### 💻 Projetos em Destaque
 
@@ -52,6 +56,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no início d
 ### 🎓 About Me
 **Systems Analysis and Development** student, currently at the beginning of my journey in technology. Passionate about learning and creating solutions through programming.
 
+<div align="center">
+
 ### 🚀 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,6 +66,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no início d
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
 
 ### 💻 Featured Projects
 
