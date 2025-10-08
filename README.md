@@ -67,6 +67,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no início d
 - 🎓 **[final-project](https://github.com/ricardoslinhares/final-project)** - Final course project
 - 📝 **[sistema-de-notas](https://github.com/ricardoslinhares/sistema-de-notas)** - Grade system developed in JavaScript
 - 🎮 **[jogonumerosecretojs](https://github.com/ricardoslinhares/jogonumerosecretojs)** - Secret number game in JavaScript
+- 🎲 **[sorteador-numeros](https://github.com/ricardoslinhares/sorteador-numeros)** - Random number generator in JavaScript
 
 ### 📊 GitHub Stats
 
