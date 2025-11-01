@@ -33,6 +33,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no início d
 - 📝 **[sistema-de-notas](https://github.com/ricardoslinhares/sistema-de-notas)** - Sistema de notas desenvolvido em JavaScript
 - 🎮 **[jogonumerosecretojs](https://github.com/ricardoslinhares/jogonumerosecretojs)** - Jogo do número secreto em JavaScript
 - 🎲 **[sorteador-numeros](https://github.com/ricardoslinhares/sorteador-numeros)** - Sorteador de números em JavaScript
+- 🧭 **[guiadev](https://github.com/ricardoslinhares/guiadev)** - Guia interativo de boas práticas para desenvolvedores iniciantes (Projeto de Extensão Universitária IPOG)
 
 ### 📊 Estatísticas GitHub
 
