@@ -34,6 +34,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no início d
 - 🎮 **[jogonumerosecretojs](https://github.com/ricardoslinhares/jogonumerosecretojs)** - Jogo do número secreto em JavaScript
 - 🎲 **[sorteador-numeros](https://github.com/ricardoslinhares/sorteador-numeros)** - Sorteador de números em JavaScript
 - 🧭 **[guiadev](https://github.com/ricardoslinhares/guiadev)** - Guia interativo de boas práticas para desenvolvedores iniciantes (Projeto de Extensão Universitária IPOG)
+- 🎁 **[amigo-secreto](https://github.com/ricardoslinhares/amigo-secreto)** - Jogo de amigo secreto desenvolvido em JavaScript
 
 ### 📊 Estatísticas GitHub
 
@@ -78,6 +79,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no início d
 - 🎮 **[jogonumerosecretojs](https://github.com/ricardoslinhares/jogonumerosecretojs)** - Secret number game in JavaScript
 - 🎲 **[sorteador-numeros](https://github.com/ricardoslinhares/sorteador-numeros)** - Random number generator in JavaScript
 - 🧭 **[guiadev](https://github.com/ricardoslinhares/guiadev)** - Interactive guide of best practices for beginner developers (IPOG University Extension Project)
+- 🎁 **[amigo-secreto](https://github.com/ricardoslinhares/amigo-secreto)** - Secret Santa game developed in JavaScript
 
 ### 📊 GitHub Stats
 
