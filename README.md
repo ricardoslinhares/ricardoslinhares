@@ -28,6 +28,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no início d
 
 ### 💻 Projetos em Destaque
 
+- 📚 **[jscodes](https://github.com/ricardoslinhares/jscodes)** - Estudos e práticas atuais com JavaScript
 - 🐍 **[python](https://github.com/ricardoslinhares/python)** - Estudos e projetos em Python
 - 🎓 **[final-project](https://github.com/ricardoslinhares/final-project)** - Projeto final do curso
 - 📝 **[sistema-de-notas](https://github.com/ricardoslinhares/sistema-de-notas)** - Sistema de notas desenvolvido em JavaScript
@@ -73,6 +74,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no início d
 
 ### 💻 Featured Projects
 
+- 📚 **[jscodes](https://github.com/ricardoslinhares/jscodes)** - Current JavaScript studies and practices
 - 🐍 **[python](https://github.com/ricardoslinhares/python)** - Python studies and projects
 - 🎓 **[final-project](https://github.com/ricardoslinhares/final-project)** - Final course project
 - 📝 **[sistema-de-notas](https://github.com/ricardoslinhares/sistema-de-notas)** - Grade system developed in JavaScript
