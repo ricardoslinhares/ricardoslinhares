@@ -40,6 +40,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no início d
 9. 🗣 Commented on [#622](https://github.com/Lacro59/playnite-successstory-plugin/issues/622#issuecomment-3538861541) in [Lacro59/playnite-successstory-plugin](https://github.com/Lacro59/playnite-successstory-plugin)
 <!--END_SECTION:activity-->
 
+---
+
 ### 💻 Projetos em Destaque
 
 - 📚 **[jscodes](https://github.com/ricardoslinhares/jscodes)** - Estudos e práticas atuais com JavaScript
