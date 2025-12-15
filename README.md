@@ -26,6 +26,11 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no início d
 
 </div>
 
+## ⚡ Atividade Recente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### 💻 Projetos em Destaque
 
 - 📚 **[jscodes](https://github.com/ricardoslinhares/jscodes)** - Estudos e práticas atuais com JavaScript
