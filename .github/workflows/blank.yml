@@ -1,0 +1,24 @@
+name: Atualizar README
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Atualiza a cada 6 horas
+  workflow_dispatch:  # Permite executar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Atualizar README com atividades recentes
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Atualiza atividades recentes'
+          MAX_LINES: 10
