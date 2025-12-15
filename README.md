@@ -48,7 +48,7 @@ const ricardo = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardoslinhares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardoslinhares&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoslinhares&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
