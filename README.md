@@ -195,11 +195,11 @@ graph LR
     C --> D
     D --> E[Cloud Computing]
     
-    style A fill:#f7df1e
-    style B fill:#61dafb
-    style C fill:#339933
-    style D fill:#ff6b6b
-    style E fill:#00c7b7
+    style A fill:#f7df1e,stroke:#333,stroke-width:3px,color:#000
+    style B fill:#61dafb,stroke:#333,stroke-width:3px,color:#000
+    style C fill:#339933,stroke:#fff,stroke-width:3px,color:#fff
+    style D fill:#ff6b6b,stroke:#fff,stroke-width:3px,color:#fff
+    style E fill:#00c7b7,stroke:#fff,stroke-width:3px,color:#fff
 ```
 
 </div>
