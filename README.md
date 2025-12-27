@@ -159,71 +159,17 @@ const ricardo = {
 
 </div>
 
----
-
-<!--START_REPOS_BY_LANGUAGE-->
-## 📂 Repositórios por Linguagem
+### 🎮 More Projects
 
 <details>
-<summary>📁 <strong>Outros</strong> (4)</summary>
+<summary>Click to expand</summary>
 
-| [ricardoslinhares](https://github.com/ricardoslinhares/ricardoslinhares) |
-| [skills-write-javascript-actions](https://github.com/ricardoslinhares/skills-write-javascript-actions) - My clone repository |
-| [skills-communicate-using-markdown](https://github.com/ricardoslinhares/skills-communicate-using-markdown) - My clone repository |
-| [skills-introduction-to-github](https://github.com/ricardoslinhares/skills-introduction-to-github) - Exercise: Introduction to GitHub |
-
-</details>
-
-<details>
-<summary>🟨 <strong>JavaScript</strong> (3)</summary>
-
-| [guiadev](https://github.com/ricardoslinhares/guiadev) - Guia de Sobrevivência para Devs Iniciantes |
-| [jscodes](https://github.com/ricardoslinhares/jscodes) - Códigos que estou criando durante meus estudos de programaçã... |
-| [sistema-de-notas](https://github.com/ricardoslinhares/sistema-de-notas) - Atividade 2 - Front End 2 - IPOG |
+- 📝 **[Grade System](https://github.com/ricardoslinhares/sistema-de-notas)** - Student grade management system with JavaScript
+- 🎲 **[Number Generator](https://github.com/ricardoslinhares/sorteador-numeros)** - Random number generator with custom range
+- 🎮 **[Secret Number Game](https://github.com/ricardoslinhares/jogonumerosecretojs)** - Interactive guessing game with hints
+- 🎁 **[Secret Santa](https://github.com/ricardoslinhares/amigo-secreto)** - Secret Santa draw application
 
 </details>
-
-<details>
-<summary>🐍 <strong>Python</strong> (2)</summary>
-
-| [skills-getting-started-with-github-copilot](https://github.com/ricardoslinhares/skills-getting-started-with-github-copilot) - Exercise: Get started using GitHub Copilot |
-| [python](https://github.com/ricardoslinhares/python) - Estudos e Projetos Pyython |
-
-</details>
-
-<details>
-<summary>🎨 <strong>CSS</strong> (2)</summary>
-
-| [amigo-secreto](https://github.com/ricardoslinhares/amigo-secreto) |
-| [sorteador-numeros](https://github.com/ricardoslinhares/sorteador-numeros) |
-
-</details>
-
-<details>
-<summary>🌐 <strong>HTML</strong> (2)</summary>
-
-| [final-project](https://github.com/ricardoslinhares/final-project) |
-| [jogonumerosecretojs](https://github.com/ricardoslinhares/jogonumerosecretojs) |
-
-</details>
-
-<details>
-<summary>🐚 <strong>Shell</strong> (1)</summary>
-
-| [skills-introduction-to-git](https://github.com/ricardoslinhares/skills-introduction-to-git) - Exercise: Introduction to Git |
-
-</details>
-
-<details>
-<summary>☕ <strong>Java</strong> (1)</summary>
-
-| [task-management-api](https://github.com/ricardoslinhares/task-management-api) - Atividade Processual IPOG - Serviços WEB e API Rest |
-
-</details>
-
-
-<sub>🤖 Atualizado automaticamente</sub>
-<!--END_REPOS_BY_LANGUAGE-->
 
 ---
 
