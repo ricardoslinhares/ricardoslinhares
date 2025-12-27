@@ -2,8 +2,8 @@ name: Update README with Recent Activity
 
 on:
   schedule:
-    # Atualiza a cada 6 horas / Updates every 6 hours
-    - cron: '0 */6 * * *'
+    # Atualiza a cada 12 horas / Updates every 12 hours
+    - cron: '0 */12 * * *'
   workflow_dispatch:  # Permite executar manualmente / Allows manual execution
 
 jobs:
