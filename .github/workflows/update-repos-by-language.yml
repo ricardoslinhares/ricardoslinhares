@@ -1,0 +1,112 @@
+name: Update Repos by Language
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # A cada 12 horas
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate repos by language
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            
+            const repos = await github.rest.repos.listForUser({
+              username: 'ricardoslinhares',
+              per_page: 100,
+              sort: 'updated',
+              type: 'owner'
+            });
+            
+            // Agrupa por linguagem
+            const byLang = {};
+            for (const repo of repos.data) {
+              if (repo.fork) continue; // Ignora forks
+              const lang = repo.language || 'Outros';
+              if (!byLang[lang]) byLang[lang] = [];
+              byLang[lang].push(repo);
+            }
+            
+            // Ordena linguagens por quantidade de repos
+            const sortedLangs = Object.entries(byLang)
+              .sort((a, b) => b[1].length - a[1].length);
+            
+            // Emojis por linguagem
+            const emojis = {
+              'JavaScript': '🟨',
+              'TypeScript': '🔷',
+              'Python': '🐍',
+              'Java': '☕',
+              'C#': '💜',
+              'C++': '⚡',
+              'C': '🔧',
+              'PHP': '🐘',
+              'Ruby': '💎',
+              'Go': '🐹',
+              'Rust': '🦀',
+              'Swift': '🍎',
+              'Kotlin': '🟣',
+              'HTML': '🌐',
+              'CSS': '🎨',
+              'Shell': '🐚',
+              'Dart': '🎯',
+              'Vue': '💚',
+              'Outros': '📁'
+            };
+            
+            // Gera markdown
+            let md = '## 📂 Repositórios por Linguagem\n\n';
+            
+            for (const [lang, langRepos] of sortedLangs) {
+              const emoji = emojis[lang] || '📦';
+              md += `<details>\n<summary>${emoji} <strong>${lang}</strong> (${langRepos.length})</summary>\n\n`;
+              
+              for (const r of langRepos) {
+                const stars = r.stargazers_count > 0 ? ` ⭐${r.stargazers_count}` : '';
+                const desc = r.description ? ` - ${r.description.substring(0, 60)}${r.description.length > 60 ? '...' : ''}` : '';
+                md += `| [${r.name}](${r.html_url})${desc}${stars} |\n`;
+              }
+              
+              md += `\n</details>\n\n`;
+            }
+            
+            md += `\n<sub>🤖 Atualizado automaticamente</sub>\n`;
+            
+            // Lê README atual
+            let readme = fs.readFileSync('README.md', 'utf8');
+            
+            // Substitui conteúdo entre os marcadores
+            const startMarker = '<!--START_REPOS_BY_LANGUAGE-->';
+            const endMarker = '<!--END_REPOS_BY_LANGUAGE-->';
+            
+            const startIdx = readme.indexOf(startMarker);
+            const endIdx = readme.indexOf(endMarker);
+            
+            if (startIdx !== -1 && endIdx !== -1) {
+              readme = readme.substring(0, startIdx + startMarker.length) + 
+                       '\n' + md + 
+                       readme.substring(endIdx);
+            } else {
+              readme += '\n' + startMarker + '\n' + md + endMarker + '\n';
+            }
+            
+            fs.writeFileSync('README.md', readme);
+      
+      - name: Commit changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "📊 Update repos by language"
+          git push
