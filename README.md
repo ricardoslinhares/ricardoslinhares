@@ -48,16 +48,16 @@ const ricardo = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardoslinhares&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoslinhares&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ricardoslinhares&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ricardoslinhares&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardoslinhares&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ricardoslinhares&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ricardoslinhares&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=ricardoslinhares&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -97,7 +97,7 @@ const ricardo = {
 <h3 align="center">🧭 GuiaDev</h3>
 <div align="center">
 <a href="https://github.com/ricardoslinhares/guiadev" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardoslinhares&repo=guiadev&theme=tokyonight&hide_border=true" alt="GuiaDev"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ricardoslinhares&repo=guiadev&theme=tokyonight&hide_border=true" alt="GuiaDev"/>
 </a>
 <p>
 <a href="https://github.com/ricardoslinhares/guiadev" target="_blank">
@@ -112,7 +112,7 @@ const ricardo = {
 <h3 align="center">📚 JSCodes</h3>
 <div align="center">
 <a href="https://github.com/ricardoslinhares/jscodes" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardoslinhares&repo=jscodes&theme=tokyonight&hide_border=true" alt="JSCodes"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ricardoslinhares&repo=jscodes&theme=tokyonight&hide_border=true" alt="JSCodes"/>
 </a>
 <p>
 <a href="https://github.com/ricardoslinhares/jscodes" target="_blank">
@@ -129,7 +129,7 @@ const ricardo = {
 <h3 align="center">🐍 Python Projects</h3>
 <div align="center">
 <a href="https://github.com/ricardoslinhares/python" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardoslinhares&repo=python&theme=tokyonight&hide_border=true" alt="Python"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ricardoslinhares&repo=python&theme=tokyonight&hide_border=true" alt="Python"/>
 </a>
 <p>
 <a href="https://github.com/ricardoslinhares/python" target="_blank">
@@ -144,7 +144,7 @@ const ricardo = {
 <h3 align="center">🎓 Final Project</h3>
 <div align="center">
 <a href="https://github.com/ricardoslinhares/final-project" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardoslinhares&repo=final-project&theme=tokyonight&hide_border=true" alt="Final Project"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ricardoslinhares&repo=final-project&theme=tokyonight&hide_border=true" alt="Final Project"/>
 </a>
 <p>
 <a href="https://github.com/ricardoslinhares/final-project" target="_blank">
@@ -237,67 +237,3 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 *"The only way to do great work is to love what you do" - Steve Jobs*
 
 </div>
-
-<!--START_REPOS_BY_LANGUAGE-->
-## 📂 Repositórios por Linguagem
-
-<details>
-<summary>📁 <strong>Outros</strong> (4)</summary>
-
-| [ricardoslinhares](https://github.com/ricardoslinhares/ricardoslinhares) |
-| [skills-write-javascript-actions](https://github.com/ricardoslinhares/skills-write-javascript-actions) - My clone repository |
-| [skills-communicate-using-markdown](https://github.com/ricardoslinhares/skills-communicate-using-markdown) - My clone repository |
-| [skills-introduction-to-github](https://github.com/ricardoslinhares/skills-introduction-to-github) - Exercise: Introduction to GitHub |
-
-</details>
-
-<details>
-<summary>🟨 <strong>JavaScript</strong> (3)</summary>
-
-| [guiadev](https://github.com/ricardoslinhares/guiadev) - Guia de Sobrevivência para Devs Iniciantes |
-| [jscodes](https://github.com/ricardoslinhares/jscodes) - Códigos que estou criando durante meus estudos de programaçã... |
-| [sistema-de-notas](https://github.com/ricardoslinhares/sistema-de-notas) - Atividade 2 - Front End 2 - IPOG |
-
-</details>
-
-<details>
-<summary>🐍 <strong>Python</strong> (2)</summary>
-
-| [skills-getting-started-with-github-copilot](https://github.com/ricardoslinhares/skills-getting-started-with-github-copilot) - Exercise: Get started using GitHub Copilot |
-| [python](https://github.com/ricardoslinhares/python) - Estudos e Projetos Pyython |
-
-</details>
-
-<details>
-<summary>🎨 <strong>CSS</strong> (2)</summary>
-
-| [amigo-secreto](https://github.com/ricardoslinhares/amigo-secreto) |
-| [sorteador-numeros](https://github.com/ricardoslinhares/sorteador-numeros) |
-
-</details>
-
-<details>
-<summary>🌐 <strong>HTML</strong> (2)</summary>
-
-| [final-project](https://github.com/ricardoslinhares/final-project) |
-| [jogonumerosecretojs](https://github.com/ricardoslinhares/jogonumerosecretojs) |
-
-</details>
-
-<details>
-<summary>🐚 <strong>Shell</strong> (1)</summary>
-
-| [skills-introduction-to-git](https://github.com/ricardoslinhares/skills-introduction-to-git) - Exercise: Introduction to Git |
-
-</details>
-
-<details>
-<summary>☕ <strong>Java</strong> (1)</summary>
-
-| [task-management-api](https://github.com/ricardoslinhares/task-management-api) - Atividade Processual IPOG - Serviços WEB e API Rest |
-
-</details>
-
-
-<sub>🤖 Atualizado automaticamente</sub>
-<!--END_REPOS_BY_LANGUAGE-->
