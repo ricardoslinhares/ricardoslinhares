@@ -34,13 +34,13 @@ const ricardo = {
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#666](https://github.com/Lacro59/playnite-successstory-plugin/issues/666#issuecomment-3695160164) in [Lacro59/playnite-successstory-plugin](https://github.com/Lacro59/playnite-successstory-plugin)
 2. 🗣 Commented on [#622](https://github.com/Lacro59/playnite-successstory-plugin/issues/622#issuecomment-3658355838) in [Lacro59/playnite-successstory-plugin](https://github.com/Lacro59/playnite-successstory-plugin)
-3. ❌ Merged PR [#2](undefined) in [ricardoslinhares/skills-getting-started-with-github-copilot](https://github.com/ricardoslinhares/skills-getting-started-with-github-copilot)
-4. 💪 Opened PR [#2](undefined) in [ricardoslinhares/skills-getting-started-with-github-copilot](https://github.com/ricardoslinhares/skills-getting-started-with-github-copilot)
-5.  Labeled issue [#1](https://github.com/ricardoslinhares/skills-write-javascript-actions/issues/1) in [ricardoslinhares/skills-write-javascript-actions](https://github.com/ricardoslinhares/skills-write-javascript-actions)
-6.  Labeled issue [#1](https://github.com/ricardoslinhares/skills-write-javascript-actions/issues/1) in [ricardoslinhares/skills-write-javascript-actions](https://github.com/ricardoslinhares/skills-write-javascript-actions)
-7. 💪 Opened PR [#2](undefined) in [ricardoslinhares/skills-communicate-using-markdown](https://github.com/ricardoslinhares/skills-communicate-using-markdown)
-8. ❌ Merged PR [#2](undefined) in [ricardoslinhares/skills-introduction-to-github](https://github.com/ricardoslinhares/skills-introduction-to-github)
-9. 💪 Opened PR [#2](undefined) in [ricardoslinhares/skills-introduction-to-github](https://github.com/ricardoslinhares/skills-introduction-to-github)
+3. 🎉 Merged PR [#2](https://github.com/ricardoslinhares/skills-getting-started-with-github-copilot/pull/2) in [ricardoslinhares/skills-getting-started-with-github-copilot](https://github.com/ricardoslinhares/skills-getting-started-with-github-copilot)
+4. 💪 Opened PR [#2](https://github.com/ricardoslinhares/skills-getting-started-with-github-copilot/pull/2) in [ricardoslinhares/skills-getting-started-with-github-copilot](https://github.com/ricardoslinhares/skills-getting-started-with-github-copilot)
+5. ℹ️ Labeled issue [#1](https://github.com/ricardoslinhares/skills-write-javascript-actions/issues/1) in [ricardoslinhares/skills-write-javascript-actions](https://github.com/ricardoslinhares/skills-write-javascript-actions)
+6. ℹ️ Labeled issue [#1](https://github.com/ricardoslinhares/skills-write-javascript-actions/issues/1) in [ricardoslinhares/skills-write-javascript-actions](https://github.com/ricardoslinhares/skills-write-javascript-actions)
+7. 💪 Opened PR [#2](https://github.com/ricardoslinhares/skills-communicate-using-markdown/pull/2) in [ricardoslinhares/skills-communicate-using-markdown](https://github.com/ricardoslinhares/skills-communicate-using-markdown)
+8. 🎉 Merged PR [#2](https://github.com/ricardoslinhares/skills-introduction-to-github/pull/2) in [ricardoslinhares/skills-introduction-to-github](https://github.com/ricardoslinhares/skills-introduction-to-github)
+9. 💪 Opened PR [#2](https://github.com/ricardoslinhares/skills-introduction-to-github/pull/2) in [ricardoslinhares/skills-introduction-to-github](https://github.com/ricardoslinhares/skills-introduction-to-github)
 <!--END_SECTION:activity-->
 
 ---
