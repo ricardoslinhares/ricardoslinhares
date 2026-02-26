@@ -32,7 +32,7 @@ const ricardo = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#666](https://github.com/Lacro59/playnite-successstory-plugin/issues/666#issuecomment-3712693499) in [Lacro59/playnite-successstory-plugin](https://github.com/Lacro59/playnite-successstory-plugin)
+1. 🚀 Published release [v1.3.1 — Primeira Release Oficial](https://github.com/ricardoslinhares/dashboard-senar-prestacao/releases/tag/v1.3.1) in [ricardoslinhares/dashboard-senar-prestacao](https://github.com/ricardoslinhares/dashboard-senar-prestacao)
 2. 🗣 Commented on [#666](https://github.com/Lacro59/playnite-successstory-plugin/issues/666#issuecomment-3711791216) in [Lacro59/playnite-successstory-plugin](https://github.com/Lacro59/playnite-successstory-plugin)
 3. 🗣 Commented on [#666](https://github.com/Lacro59/playnite-successstory-plugin/issues/666#issuecomment-3695160164) in [Lacro59/playnite-successstory-plugin](https://github.com/Lacro59/playnite-successstory-plugin)
 4. 🗣 Commented on [#622](https://github.com/Lacro59/playnite-successstory-plugin/issues/622#issuecomment-3658355838) in [Lacro59/playnite-successstory-plugin](https://github.com/Lacro59/playnite-successstory-plugin)
