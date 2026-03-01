@@ -32,10 +32,10 @@ const ricardo = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.5.0](https://github.com/ricardoslinhares/dashboard-senar-prestacao/releases/tag/v1.5.0) in [ricardoslinhares/dashboard-senar-prestacao](https://github.com/ricardoslinhares/dashboard-senar-prestacao)
-2. 🚀 Published release [v1.4.0](https://github.com/ricardoslinhares/dashboard-senar-prestacao/releases/tag/v1.4.0) in [ricardoslinhares/dashboard-senar-prestacao](https://github.com/ricardoslinhares/dashboard-senar-prestacao)
-3. 🚀 Published release [v1.3.1 — Primeira Release Oficial](https://github.com/ricardoslinhares/dashboard-senar-prestacao/releases/tag/v1.3.1) in [ricardoslinhares/dashboard-senar-prestacao](https://github.com/ricardoslinhares/dashboard-senar-prestacao)
-4. 🗣 Commented on [#622](https://github.com/Lacro59/playnite-successstory-plugin/issues/622#issuecomment-3658355838) in [Lacro59/playnite-successstory-plugin](https://github.com/Lacro59/playnite-successstory-plugin)
+1. 🚀 Published release [v1.6.0](https://github.com/ricardoslinhares/dashboard-senar-prestacao/releases/tag/v1.6.0) in [ricardoslinhares/dashboard-senar-prestacao](https://github.com/ricardoslinhares/dashboard-senar-prestacao)
+2. 🚀 Published release [v1.5.0](https://github.com/ricardoslinhares/dashboard-senar-prestacao/releases/tag/v1.5.0) in [ricardoslinhares/dashboard-senar-prestacao](https://github.com/ricardoslinhares/dashboard-senar-prestacao)
+3. 🚀 Published release [v1.4.0](https://github.com/ricardoslinhares/dashboard-senar-prestacao/releases/tag/v1.4.0) in [ricardoslinhares/dashboard-senar-prestacao](https://github.com/ricardoslinhares/dashboard-senar-prestacao)
+4. 🚀 Published release [v1.3.1 — Primeira Release Oficial](https://github.com/ricardoslinhares/dashboard-senar-prestacao/releases/tag/v1.3.1) in [ricardoslinhares/dashboard-senar-prestacao](https://github.com/ricardoslinhares/dashboard-senar-prestacao)
 5. 🎉 Merged PR [#2](https://github.com/ricardoslinhares/skills-getting-started-with-github-copilot/pull/2) in [ricardoslinhares/skills-getting-started-with-github-copilot](https://github.com/ricardoslinhares/skills-getting-started-with-github-copilot)
 6. 💪 Opened PR [#2](https://github.com/ricardoslinhares/skills-getting-started-with-github-copilot/pull/2) in [ricardoslinhares/skills-getting-started-with-github-copilot](https://github.com/ricardoslinhares/skills-getting-started-with-github-copilot)
 7. ℹ️ Labeled issue [#1](https://github.com/ricardoslinhares/skills-write-javascript-actions/issues/1) in [ricardoslinhares/skills-write-javascript-actions](https://github.com/ricardoslinhares/skills-write-javascript-actions)
