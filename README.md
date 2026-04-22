@@ -32,8 +32,8 @@ const ricardo = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.7.0](https://github.com/ricardoslinhares/dashboard-senar-prestacao/releases/tag/v1.7.0) in [ricardoslinhares/dashboard-senar-prestacao](https://github.com/ricardoslinhares/dashboard-senar-prestacao)
-2. 🚀 Published release [v1.6.0](https://github.com/ricardoslinhares/dashboard-senar-prestacao/releases/tag/v1.6.0) in [ricardoslinhares/dashboard-senar-prestacao](https://github.com/ricardoslinhares/dashboard-senar-prestacao)
+1. 🎉 Merged PR [#74015](https://github.com/digitalinnovationone/dio-lab-open-source/pull/74015) in [digitalinnovationone/dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)
+2. 💪 Opened PR [#74015](https://github.com/digitalinnovationone/dio-lab-open-source/pull/74015) in [digitalinnovationone/dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)
 3. 🚀 Published release [v1.5.0](https://github.com/ricardoslinhares/dashboard-senar-prestacao/releases/tag/v1.5.0) in [ricardoslinhares/dashboard-senar-prestacao](https://github.com/ricardoslinhares/dashboard-senar-prestacao)
 4. 🚀 Published release [v1.4.0](https://github.com/ricardoslinhares/dashboard-senar-prestacao/releases/tag/v1.4.0) in [ricardoslinhares/dashboard-senar-prestacao](https://github.com/ricardoslinhares/dashboard-senar-prestacao)
 5. 🚀 Published release [v1.3.1 — Primeira Release Oficial](https://github.com/ricardoslinhares/dashboard-senar-prestacao/releases/tag/v1.3.1) in [ricardoslinhares/dashboard-senar-prestacao](https://github.com/ricardoslinhares/dashboard-senar-prestacao)
