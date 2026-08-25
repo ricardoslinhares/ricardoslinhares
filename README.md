@@ -95,7 +95,7 @@ const ricardo = {
 <h3 align="center">🧭 GuiaDev</h3>
 <div align="center">
 <a href="https://github.com/ricardoslinhares/guiadev" target="_blank">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ricardoslinhares&repo=guiadev&theme=tokyonight&hide_border=true" alt="GuiaDev"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardoslinhares&repo=guiadev&theme=tokyonight&hide_border=true" alt="GuiaDev"/>
 </a>
 <p>
 <a href="https://github.com/ricardoslinhares/guiadev" target="_blank">
@@ -110,7 +110,7 @@ const ricardo = {
 <h3 align="center">📚 JSCodes</h3>
 <div align="center">
 <a href="https://github.com/ricardoslinhares/jscodes" target="_blank">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ricardoslinhares&repo=jscodes&theme=tokyonight&hide_border=true" alt="JSCodes"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardoslinhares&repo=jscodes&theme=tokyonight&hide_border=true" alt="JSCodes"/>
 </a>
 <p>
 <a href="https://github.com/ricardoslinhares/jscodes" target="_blank">
@@ -127,7 +127,7 @@ const ricardo = {
 <h3 align="center">🐍 Python Projects</h3>
 <div align="center">
 <a href="https://github.com/ricardoslinhares/python" target="_blank">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ricardoslinhares&repo=python&theme=tokyonight&hide_border=true" alt="Python"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardoslinhares&repo=python&theme=tokyonight&hide_border=true" alt="Python"/>
 </a>
 <p>
 <a href="https://github.com/ricardoslinhares/python" target="_blank">
@@ -142,7 +142,7 @@ const ricardo = {
 <h3 align="center">🎓 Final Project</h3>
 <div align="center">
 <a href="https://github.com/ricardoslinhares/final-project" target="_blank">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ricardoslinhares&repo=final-project&theme=tokyonight&hide_border=true" alt="Final Project"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardoslinhares&repo=final-project&theme=tokyonight&hide_border=true" alt="Final Project"/>
 </a>
 <p>
 <a href="https://github.com/ricardoslinhares/final-project" target="_blank">
@@ -183,8 +183,6 @@ const ricardo = {
 
 ## 🎓 Currently Learning
 
-<div align="center">
-
 ```mermaid
 graph LR
     A[JavaScript] --> B[React.js]
@@ -199,8 +197,6 @@ graph LR
     style D fill:#ff6b6b,stroke:#fff,stroke-width:3px,color:#fff
     style E fill:#00c7b7,stroke:#fff,stroke-width:3px,color:#fff
 ```
-
-</div>
 
 ---
 
