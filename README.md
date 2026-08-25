@@ -48,16 +48,14 @@ const ricardo = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ricardoslinhares&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ricardoslinhares&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardoslinhares&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoslinhares&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ricardoslinhares&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ricardoslinhares&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
-
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=ricardoslinhares&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ricardoslinhares&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
